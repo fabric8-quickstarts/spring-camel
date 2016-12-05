@@ -34,7 +34,7 @@
     <camel.version>2.18.1</camel.version>
     <commons-lang3.version>3.4</commons-lang3.version>
     <commons-logging.version>1.2</commons-logging.version>
-    <fabric8.version>2.2.182</fabric8.version>
+    <fabric8.version>2.2.183</fabric8.version>
 
     <!-- maven plugin versions -->
     <fabric8.maven.plugin.version>3.2.8</fabric8.maven.plugin.version>
